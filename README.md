@@ -13,7 +13,7 @@ The following is the layout of the notebook and the Goals:
 This is one of the most popular and enduring games of all time called **Tic-Tac-Toe**. Because of its familiarity, this game is often used as a starting example to mathematically analyze a decision-making process. Its brevity makes it a perfect game to illustrate the rewards of thinking ahead and learning the consequence of each decision.
 
 Rules of the Game:
-* Rules of the Game:
+
 - The game will be played on a 3x3 grid (9 cells) using numbers from 1 to 9. Each number can be used exactly once in the entire grid.
 - There are two players: one is the Reinforcement Learning (RL) agent and other is the environment.
 - The RL agent is given odd numbers {1, 3, 5, 7, 9} and the environment is given the even numbers {2, 4, 6, 8}
